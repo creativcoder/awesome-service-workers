@@ -17,6 +17,7 @@ A collection of [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 - [Introduction to Service Worker](http://www.html5rocks.com/en/tutorials/service-worker/introduction/) - A graceful introduction to Service Workers.
 - [Offline Web Applications Using IndexedDB & Service Worker](https://www.udacity.com/course/offline-web-applications--ud899) - This free Udacity course is a must if you're planning to dive deep into Service Workers.
 - [Designing Offline-First Web Apps](http://alistapart.com/article/offline-first) - A fascinating look at design and UX considerations for dealing with various states of connectivity.
+- [PonyFoo - Service Worker Revolution](https://ponyfoo.com/articles/serviceworker-revolution)
 
 ## Learning Resources
 
@@ -38,6 +39,10 @@ A collection of [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 ## Videos
 
 - [Offline Web Applications Using IndexedDB & Service Worker](https://www.udacity.com/course/offline-web-applications--ud899) - This free Udacity course is a must if you're planning to dive deep into Service Workers.
+- [Using the Service Workers - Jake Archibald](https://www.youtube.com/watch?v=SdMxGNkZqnU) - Jake talks about the motivation to use Service Workers with some prototype examples.
+- [Making Offline Suck Less with Service Workers by Bret Little](https://www.youtube.com/watch?v=nqecpa6MtZ0)
+- [HTML5DevConf: Alex Russell, Google: Engaging Apps: Service Workers, Push, and Notifications](https://www.youtube.com/watch?v=vuMgfWUdTZU)
+- [Service Workers - Velocity 2015 Talk by Patrick Meenan](https://www.youtube.com/watch?v=3ol3-kvCNeQ)
 
 ## Specific Technologies
 
